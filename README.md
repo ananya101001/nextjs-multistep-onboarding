@@ -86,6 +86,20 @@ Open [http://localhost:8501](http://localhost:8501).
 
 ---
 
+### 📸 Visual Walkthrough
+
+**1. Personal Info (Step 1)**
+![Personal Info](screenshots/peronal%20info.png)
+
+**2. Company Info (Step 2)**
+![Company Info](screenshots/company_info.png)
+
+**3. Plan Selection & Mock API Loading (Step 3)**
+![Plan Selection](screenshots/plan_selection.png)
+
+**4. Completion & State Cleared**
+![Success Screen](screenshots/sucsess.png)
+
 ## Example Output
 
 When the form is submitted, the following JSON payload is sent to the Server Action:
