@@ -2,7 +2,8 @@
 
 A 3-step onboarding flow built with **Next.js 16** and **Streamlit**, featuring real-time validation, localStorage persistence, and a simulated HubSpot Server Action.
 
-**Live demo (Streamlit):** http://localhost:8501
+**Next.js:** http://localhost:3000
+**Streamlit:** http://localhost:8501
 
 ---
 
